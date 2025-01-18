@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.17.3",
+    "yt-search": "^2.12.1",
+    "ytdl-core": "^4.11.5"
+  },
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
